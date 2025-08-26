@@ -59,6 +59,17 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 
 <img src="Callme/Diagrama.jpg" alt="Diagrama"/>
 
+# Cronograma de Sprints - TCC Análise de Sistemas
+
+| Sprint | Período       | Objetivos Principais                                    | Entregáveis                              |
+|--------|---------------|--------------------------------------------------------|-----------------------------------------|
+| 1      | Semana 1      | Planejamento do projeto e definição do tema            | Documento de escopo e planejamento      |
+| 2      | Semana 2      | Levantamento e análise de requisitos                    | Documento de requisitos                  |
+| 3      | Semana 3      | Modelagem do sistema (diagramas UML, arquitetura)      | Diagramas UML e especificação técnica   |
+| 4      | Semana 4      | Desenvolvimento do protótipo ou sistema                 | Protótipo funcional ou código inicial   |
+| 5      | Semana 5      | Testes, validação e documentação final                  | Relatório de testes e documentação final|
+
+
 ---
 
 ## 🚀 Como Rodar o Projeto  
