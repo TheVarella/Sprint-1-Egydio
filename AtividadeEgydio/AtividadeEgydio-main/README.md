@@ -59,7 +59,7 @@ O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scru
 
 <img src="Callme/Diagrama.jpg" alt="Diagrama"/>
 
-# Cronograma de Sprints - TCC Análise de Sistemas
+# Cronograma de Sprints 
 
 | Sprint | Período       | Objetivos Principais                                    | Entregáveis                              |
 |--------|---------------|--------------------------------------------------------|-----------------------------------------|
