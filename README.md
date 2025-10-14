@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logoCallmeapp.png" alt="Callme App" width="150"/>
+  <img src='https://raw.githubusercontent.com/endlymelo/AtividadeEgydioIndividual.4ADS/refs/heads/main/logoCallmeapp%20(1).png'>
   <br>
   Callme App
 </h1>
@@ -19,13 +19,13 @@
 
 ## 📖 Sobre o Projeto  
 
-O *Callme App* é um aplicativo mobile para *abertura e gerenciamento de chamados* por funcionários para a assistência técnica, com suporte integrado de *IA*.  
+O **Callme App** é um aplicativo mobile para **abertura e gerenciamento de chamados** por funcionários para a assistência técnica, com suporte integrado de **IA**.  
 
 🔹 Funcionários abrem chamados no app.  
-🔹 A *IA* recebe o chamado e sugere uma solução imediata.  
-🔹 Caso não seja resolvido, o chamado é *encaminhado automaticamente ao técnico responsável*.  
+🔹 A **IA** recebe o chamado e sugere uma solução imediata.  
+🔹 Caso não seja resolvido, o chamado é **encaminhado automaticamente ao técnico responsável**.  
 
-O desenvolvimento foi feito com *React Native + TypeScript, utilizando **Scrum* como metodologia ágil.  
+O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scrum** como metodologia ágil.  
 
 > 🎯 Motivação: A ideia surgiu devido à insatisfação com softwares existentes que não oferecem integração com inteligência artificial.  
 
@@ -38,53 +38,19 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 ---
 
 ##  📋 Backlog do Produto
-
-### Sprint 1: Estrutura e Preparação do Ambiente
-- Configuração completa do ambiente de desenvolvimento e integração com ferramentas de versionamento (Git).
-- Criação e configuração do banco de dados SQL Server, definindo tabelas e relacionamentos iniciais.
-- Definição da arquitetura modular do sistema, garantindo escalabilidade e facilidade de manutenção.
-- Implementação das primeiras camadas de segurança, incluindo criptografia de senhas e autenticação básica.
-
-### Sprint 2: Módulo de Usuários e Autenticação
-- Desenvolvimento do cadastro de usuários com validação de dados e tratamento de erros.
-- Implementação do sistema de login e autenticação, contemplando diferentes níveis de permissão (usuário comum, técnico, administrador).
-- Realização de testes unitários e de integração para assegurar estabilidade e funcionamento correto
-
-### Sprint 3: Gestão de Chamados
-- Criação da funcionalidade para abertura e acompanhamento de chamados.
-- Desenvolvimento da interface de exibição e filtragem de chamados por status e prioridade.
-- Integração com o banco de dados e realização de testes de consistência e desempenho. 
-
-### Sprint 4: Inteligência Artificial e Automação
-- Treinamento inicial da IA de classificação, utilizando histórico de chamados (com dados simulados, se necessário).
-- Implementação da sugestão automática de soluções com base em padrões identificados.
-- Ajustes e refinamentos no modelo de IA a partir dos resultados dos testes.
-
-### Sprint 5: Otimização, Segurança e Entrega Final
-- Aplicação de melhorias de segurança avançadas (como tokens JWT e políticas de acesso).
-- Refatoração do código e ajustes na arquitetura para otimizar desempenho e legibilidade.
-- Elaboração da documentação técnica e do usuário, além de testes finais de validação e usabilidade.
-- Configuração de logs e monitoramento básico do sistema para manutenção contínua.
+Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/TheVarella/Backlog-Produto/tree/main)
 
 ---
 ## 📈 Cronograma de Evolução
-<img src="https://github.com/TheVarella/Sprint-1-Egydio/blob/main/Cronograma.png?raw=true"/>
+Para ver o cronograma de evolução, acesse: [Cronograma de Evolução](https://github.com/TheVarella/Cronograma-Evolucao/tree/main)
 
 ---
 ## 📅 Tabela das Sprints
-
-| Sprint | Período (2025) | Objetivos | Entregas | Documentação |
-|--------|----------------|-----------|----------|--------------|
-| Sprint 1 — Estrutura e Preparação do Ambiente | 19/08-26/08 | Configuração do ambiente de desenvolvimento, integração com Git, criação e configuração do banco de dados SQL Server, definição da arquitetura modular, implementação de segurança inicial. | Ambiente dev configurado, Git integrado, SQL Server com tabelas e relacionamentos, arquitetura modular definida, criptografia de senhas. | Documentação do ambiente, arquitetura e configuração inicial do banco de dados. |
-| Sprint 2 — Módulo de Usuários e Autenticação | 26/08-02/09 | Desenvolvimento do cadastro de usuários, validação de dados, sistema de login e autenticação com níveis de permissão, testes unitários e de integração. | CRUD de usuários, login/logout com diferentes permissões (usuário, técnico, admin), testes unitários realizados. | Documentação do sistema de autenticação, níveis de permissão e testes realizados. |
-| Sprint 3 — Gestão de Chamados | 02/09-09/09 | Criação da funcionalidade de abertura e acompanhamento de chamados, interface para exibição e filtragem de chamados, integração com banco de dados, testes de consistência e desempenho. | Formulário de abertura de chamados, listagem filtrável por status e prioridade, integração com DB, testes realizados. | Documentação da funcionalidade de chamados, filtragem e integração com o banco de dados. |
-| Sprint 4 — Inteligência Artificial e Automação | 16/09 – 23/09 | Treinamento inicial da IA de classificação, implementação de sugestões automáticas de soluções, ajustes no modelo de IA com base nos testes. | Modelo de IA para classificação de chamados, endpoint de sugestão automática de soluções, ajustes e métricas iniciais. | Documentação sobre IA, fluxos de sugestões automáticas e melhorias realizadas. |
-| Sprint 5 — Otimização, Segurança e Entrega Final | 23/09 – 30/09 | Melhorias de segurança avançadas (JWT, políticas de acesso), refatoração de código, ajustes na arquitetura para otimização, documentação técnica e do usuário, testes finais de validação e usabilidade. | Segurança otimizada, código refatorado, arquitetura melhorada, sistema estável, documentação completa. | Documentação técnica e do usuário, guia de segurança, resultados de testes finais. |
-| Entrega Final | 07/10 | Versão 1.0 do sistema finalizada e entregue. | Sistema funcional e protótipo completo, documentação pronta. | Documentação final do sistema e plano de manutenção. |
+Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/TheVarella/Tabela-Sprints/tree/main)
 
 ---
 
-## 🛠 Tecnologias Utilizadas  
+## 🛠️ Tecnologias Utilizadas  
 
 - [React Native](https://reactnative.dev/)  
 - [TypeScript](https://www.typescriptlang.org/)  
@@ -108,7 +74,9 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 - [📌 Diagramas UML](https://github.com/TheVarella/Sprint-1-Egydio/blob/main/AtividadeEgydio/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema.asta.lock)
 - [📌 Sprint Backlog](https://github.com/TheVarella/Sprint-1-Egydio/blob/main/AtividadeEgydio/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)
 - [📌 Casos de Uso](https://github.com/TheVarella/Sprint-1-Egydio/blob/main/AtividadeEgydio/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Descri%C3%A7%C3%A3o_caso_de_uso.docx)  
-- [📌 Documentação Completa](https://github.com/TheVarella/Sprint-1-Egydio/blob/main/AtividadeEgydio/AtividadeEgydio-main/Callme/PIM/PIM%203%20SEMESTRE.doc)
+- [📌 Documentação Completa](https://github.com/TheVarella/Sprint-1-Egydio/blob/main/AtividadeEgydio/AtividadeEgydio-main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
+
+
 
 ---
 
@@ -121,7 +89,7 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 
 ### Passo a passo  
 
-bash
+```bash
 # Clone o projeto
 $ git clone https://github.com/Devluisgsouza/Callme_App.git 
 
@@ -137,13 +105,11 @@ $ npm install -g expo-cli
 # Inicie o projeto
 $ npx expo start
 
-bash
+```bash
     # Conectar o código ao emulador android
     $ npm run android
 ```
 
-## Dev do Projeto
+## Devs do Projeto
 
-| Nome do Aluno         | RA      | Turma   |
-|-----------------------|---------|---------|
-| Gustavo Varella       | G981774 | DS4Q48  |
+<table> <tr> <td align="center"> <a href="https://github.com/Devluisgsouza"> <img src="https://avatars.githubusercontent.com/u/175893858?v=4" width="100px;" alt="Luis Souza"/> <br /> <sub><b>Luis Souza</b></sub> </a> <br /> <a href="https://github.com/Devluisgsouza">🔗 GitHub </a> </td> <td align="center"> <a href="https://github.com/Felipe00702"> <img src="https://avatars.githubusercontent.com/u/205240478?v=4" width="100px;" alt="Felipe Silva"/> <br /> <sub><b>Felipe Silva</b></sub> </a> <br /> <a href="https://github.com/Felipe00702">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/Nilo40"> <img src="https://avatars.githubusercontent.com/u/112767071?v=4" width="100px;" alt="Danilo Alves"/> <br /> <sub><b>Danilo Alves</b></sub> </a> <br /> <a href="https://github.com/Nilo40">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/endlymelo"> <img src="https://avatars.githubusercontent.com/u/202872646?v=4" width="100px;" alt="Endly Melo"/> <br /> <sub><b>Endly Melo</b></sub> </a> <br /> <a href="https://github.com/endlymelo">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/caiogoulart1"> <img src="https://avatars.githubusercontent.com/u/205272622?v=4" width="100px;" alt="Caio Goulart"/> <br /> <sub><b>Caio Goulart</b></sub> </a> <br /> <a href="https://github.com/caiogoulart1">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/TheVarella"> <img src="https://avatars.githubusercontent.com/u/95414997?v=4" width="100px;" alt="Gustavo Varella"/> <br /> <sub><b>Gustavo Varella</b></sub> </a> <br /> <a href="https://github.com/TheVarella">🔗 GitHub</a> </tr> </table>
