@@ -25,7 +25,7 @@ O **Callme App** é um aplicativo mobile para **abertura e gerenciamento de cham
 🔹 A **IA** recebe o chamado e sugere uma solução imediata.  
 🔹 Caso não seja resolvido, o chamado é **encaminhado automaticamente ao técnico responsável**.  
 
-O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scrum** como metodologia ágil 
+O desenvolvimento foi feito com **React Native + TypeScript**, utilizando **Scrum** como metodologia ágil.
 
 > 🎯 Motivação: A ideia surgiu devido à insatisfação com softwares existentes que não oferecem integração com inteligência artificial.  
 
